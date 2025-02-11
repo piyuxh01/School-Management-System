@@ -65,7 +65,7 @@ This project is open-source and available under the **MIT License**.
 
 ## Connect
 For any questions or contributions, reach out:
-- GitHub: [yourusername](https://github.com/piyuxh01)
+- GitHub: [HERE->](https://github.com/piyuxh01)
 
 ---
 🚀 Built with MERN stack for efficient school management!
